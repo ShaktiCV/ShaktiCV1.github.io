@@ -1,6 +1,6 @@
 ---
 layout: default
----
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -9,88 +9,43 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+---
 
-# Header 1
+# Shakti Gupta 
+SPC and Agile Coach, Amadeus Software Labs  
+[**Email**](mailto:shakticv@gmail.com) | [**LinkedIn**](http://linkedin.com/in/shakti-gupta)  
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+***
+## About me :**  
+Working with people and teams, helping them do great in their jobs makes me happy. I am here to learn technical agility concepts.  
 
-## Header 2
+## Core Skills:**
+- Professional Coaching (SAFe/Agile/ DevOps/ Engineering Practices)
+- Facilitation of large-scale distributed workshops
+- Training and mentoring teams, leaders and individual contributors
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Certifications:**
+- SAFe Program Consultant 
+- ICP-ACC
 
-### Header 3
+### Professional Summary  
+15 yrs experience in varied roles - Quality Engineer, Team lead, Scrum Master and currently an Agile Coach. Having performed in these varying roles, Shakti is able to provide guidance to teams from grassroot level to strategic. What makes me stand out is being emphathetic and leading by example.  
+Compaines proud to have worked for - Accenture Services Pvt Ltd, Fidelity National Financials, Societe Generale and Amadeus Software Labs(Current).
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+###### Certifications
 
-#### Header 4
+| head1        | 
+|:-------------|
+| SAFe Program Consultant |
+| ICP-ACC | 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
-##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### Certifications: 
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+1.  SAFe Program Consultant
+1.  ICP-ACC
 
 ### Small image
 
@@ -101,23 +56,3 @@ end
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
