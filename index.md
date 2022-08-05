@@ -3,7 +3,7 @@ SPC and Agile Coach, Amadeus Software Labs
 [**Email**](mailto:shakticv@gmail.com) | [**LinkedIn**](http://linkedin.com/in/shakti-gupta)  
 
 ***
-## About me : 
+## About me: 
 Working with people and teams, helping them do great in their jobs makes me happy. I am here to learn technical agility concepts.  
 
 ## Core Skills:
